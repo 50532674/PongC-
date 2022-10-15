@@ -1,0 +1,11 @@
+C:\Users\Bruce\source\repos\Pong\Pong\bin\Release\Pong.exe.config
+C:\Users\Bruce\source\repos\Pong\Pong\bin\Release\Pong.exe
+C:\Users\Bruce\source\repos\Pong\Pong\bin\Release\Pong.pdb
+C:\Users\Bruce\source\repos\Pong\Pong\obj\Release\Pong.csproj.AssemblyReference.cache
+C:\Users\Bruce\source\repos\Pong\Pong\obj\Release\Pong.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bruce\source\repos\Pong\Pong\obj\Release\Pong.Pong.resources
+C:\Users\Bruce\source\repos\Pong\Pong\obj\Release\Pong.Properties.Resources.resources
+C:\Users\Bruce\source\repos\Pong\Pong\obj\Release\Pong.csproj.GenerateResource.cache
+C:\Users\Bruce\source\repos\Pong\Pong\obj\Release\Pong.csproj.CoreCompileInputs.cache
+C:\Users\Bruce\source\repos\Pong\Pong\obj\Release\Pong.exe
+C:\Users\Bruce\source\repos\Pong\Pong\obj\Release\Pong.pdb
